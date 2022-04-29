@@ -40,6 +40,13 @@ git push encore
 - Twitter: [@jellydn](https://twitter.com/jellydn)
 - Github: [@jellydn](https://github.com/jellydn)
 
+## Important links
+
+- [encore](https://encore.dev/docs)
+  - [Quick Start Guide](https://encore.dev/docs/quick-start)
+  - [Building a REST API](https://encore.dev/docs/tutorials/rest-api)
+  - [Building a Slack bot](https://encore.dev/docs/tutorials/slack-bot)
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
