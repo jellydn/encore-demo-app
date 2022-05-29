@@ -6,6 +6,11 @@
 
 ### 🏠 [Homepage](https://staging-demo-backend-app-eyk2.encr.app/)
 
+## Prerequisites
+
+- [Encore CLI](https://encore.dev/docs/install)
+- [docker](https://www.docker.com/)
+
 ## Install
 
 ```sh
