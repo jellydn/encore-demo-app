@@ -1,4 +1,4 @@
-package url
+package shorten_url
 
 import (
 	"context"
