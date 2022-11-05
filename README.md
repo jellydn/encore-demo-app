@@ -6,6 +6,8 @@
 
 ### 🏠 [Homepage](https://staging-demo-backend-app-eyk2.encr.app/)
 
+[![IT Man - Tech #20 - Encore - Backend Development Engine - How to build shorten URL App [Vietnamese]](https://i.ytimg.com/vi/0HP8ww_BtBk/hqdefault.jpg)](https://www.youtube.com/watch?v=0HP8ww_BtBk)
+
 ## Prerequisites
 
 - [Encore CLI](https://encore.dev/docs/install)
