@@ -14,7 +14,7 @@
 ## Install
 
 ```sh
-curl -L https://encore.dev/install.sh | bash
+make install
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ curl -L https://encore.dev/install.sh | bash
 ### Run app locally
 
 ```sh
-encore run
+make dev
 ```
 
 ### Deploy
@@ -34,7 +34,7 @@ git push encore
 ## Run tests
 
 ```sh
- encore test ./...
+make test
 ```
 
 ## Author
@@ -58,4 +58,5 @@ Give a ⭐️ if this project helped you!
 
 ---
 
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+_This README was generated with ❤️ by
+[readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
