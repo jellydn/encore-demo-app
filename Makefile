@@ -10,6 +10,10 @@ test:
 help:
 	encore help
 
+.PHONY: update
+update:
+	encore version update
+
 .PHONY: install
 install:
 	curl -L https://encore.dev/install.sh | bash
