@@ -5,6 +5,7 @@ import (
 	"testing"
 )
 
+// TestHello tests the Hello function.
 func TestWorld(t *testing.T) {
 	resp, err := World(context.Background(), "Jane Doe")
 	if err != nil {
